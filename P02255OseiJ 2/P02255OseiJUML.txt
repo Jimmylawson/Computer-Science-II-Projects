@@ -1,0 +1,81 @@
+
+
+       UML
+SongNode
+- uniqueID: string
+- songName: string
+- artistName: string
+- songLength: int
+- next: SongNode
+
+
+
++ SongNode(string uniqueID, string songName, string artistName, int songLength, SongNode* next) 
++ ~SongNode()
++ getUniqueID() const: string
++ getSongName() const: string
++ getArtistName() const: string
++ getSongLength() const: int
++ setNext(SongNode* nodePtr): void}
++ SongNode* getNext()
+
+
+
+
+
+
+
+
+
+
+
+
+ Playlist 
+
+- init(): void
+- eraseList(SongNode* head): void 
+- printTableHeadings(): void
+- printTableRow(SongNode* song, int position): void
+- head: SongNode
+- nodeCount: int
+ 
++~Playlist();
++Playlist();
++ getNodeCount(): int
++ insertFront(SongNode* songNode): void
++ remove(string id): bool
++ changeSongPosition(int songPosition, int newPosition): void
++ insertAfter(SongNode* prevNode, SongNode* newNode): void
++ getTotalTime(): int
++ printPlaylist(): void
++ printByArtist(string artist): void
++ contains(const string& id): bool
++ clearList(): void
+ 
+ 
+ 
+SongNode
+- uniqueID: string
+- songName: string
+- artistName: string
+- songLength: int
+- next: SongNode
+
++ SongNode(string uniqueID, string songName, string artistName, int songLength, SongNode* next) 
++ ~SongNode()
++ getUniqueID() const: string
++ getSongName() const: string
++ getArtistName() const: string
++ getSongLength() const: int
++ setNext(SongNode* nodePtr): void}
++ SongNode* getNext()
+
+
+
+
+
+
+
+
+ 
+ 

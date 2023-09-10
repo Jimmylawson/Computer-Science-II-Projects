@@ -1,0 +1,220 @@
+
+
+
+        ****Shopping Cart****
+
+        Enter customer's name: Jim Osei
+
+        Customer Name: Jim Osei Today's Date: 03/28/23
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: a
+
+        --Add Item to Cart--
+        Enter the item name: Banana
+        Enter the item price:2.34
+        Enter the item quantity:2
+
+
+        >>>Item Banana added to cart<<<
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: a
+
+        --Add Item to Cart--
+        Enter the item name: Vanilla
+        Enter the item price:1.49
+        Enter the item quantity:1
+
+
+        >>>Item Vanilla  added to cart<<<
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: a
+
+        --Add Item to Cart--
+        Enter the item name: Tea
+        Enter the item price:1.99
+        Enter the item quantity:2
+
+        >>>Item Tea added to cart<<<
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: a
+
+        --Add Item to Cart--
+        Enter the item name: Apples Water Snacks
+        Enter the item price:4.50
+        Enter the item quantity:1
+
+
+        >>>Item Apples Water Snacks added to cart<<<
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: o
+
+--Output Shopping Cart --
+        Jim Osei's Shopping Cart - 03/28/23
+
+'       Numbers of Items: 6
+        ---------------
+        Banana 2 @ $2.34 = $4.68
+        Vanilla  1 @ $1.49 = $1.49
+        Tea 2 @ $1.99 = $3.98
+        Apples Water Snacks 1 @ $4.50 = $4.50
+
+        Total: $14.65
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: c
+        --Change Item Quantity--
+        Enter the item name:Banana
+
+        Enter the new quantity:1
+
+        >>>Item Banana quantity changed to 1 <<<
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: o
+
+--Output Shopping Cart --
+        Jim Osei's Shopping Cart - 03/28/23
+
+'       Numbers of Items: 5
+        ---------------
+        Banana 1 @ $2.34 = $2.34
+        Vanilla  1 @ $1.49 = $1.49
+        Tea 2 @ $1.99 = $3.98
+        Apples Water Snacks 1 @ $4.50 = $4.50
+
+        Total: $12.31
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: d
+        --Remove Item from Cart--
+        Enter name of Item to remove: Vanilla
+
+        >>>Item Vanilla not in the cart<<<
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: d
+        --Remove Item from Cart--
+        Enter name of Item to remove: Banana
+
+        >>>Item Banana removed from cart<<<
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: a
+
+        --Add Item to Cart--
+        Enter the item name: Vanilla
+        Enter the item price:3.99
+        Enter the item quantity:1
+
+
+        >>>Item Vanilla added to cart<<<
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: o
+
+--Output Shopping Cart --
+        Jim Osei's Shopping Cart - 03/28/23
+
+'       Numbers of Items: 5
+        ---------------
+        Vanilla  1 @ $1.49 = $1.49
+        Tea 2 @ $1.99 = $3.98
+        Apples Water Snacks 1 @ $4.50 = $4.50
+        Vanilla 1 @ $3.99 = $3.99
+
+        Total: $13.96
+
+        --Online Shopping Menu --
+        a - Add item to cart
+        d - Remove item from cart
+        c-Change item quantity
+        p-Change item price
+        o-Output shopping cart
+        q-Quit
+
+        Choose Option: q
+
+\\elm-xa-file\CitrixFiles$\elmhurst\e0750159\Desktop\P001255OseiJ\Debug\MyClassProject.exe (process 30464) exited with code 0.
+Press any key to close this window . . .
